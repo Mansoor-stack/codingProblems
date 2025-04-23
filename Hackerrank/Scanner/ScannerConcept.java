@@ -1,8 +1,8 @@
-package codingProblems.Hackerrank;
-
+package Hackerrank.Scanner;
 import java.util.*;
 
-public class hello {
+public class ScannerConcept {
+
     public static void main(String[] args) {
         // Print a basic greeting to the console.
         System.out.println("Hello, World.");

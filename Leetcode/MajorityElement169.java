@@ -1,4 +1,6 @@
-class Problem1 {
+//https://leetcode.com/problems/majority-element/description/
+
+class MajorityElement169 {
     public static int majorityElement(int[] nums) {
 
         for (int i = 0; i < nums.length; i++) {
