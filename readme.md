@@ -3,12 +3,23 @@
 ```
 .
 ├── Collections/
-│   ├── ArrayListDemo.java
-│   ├── IteratorDemo.java
-│   ├── LinkedListDemo.java
-│   ├── ListIteratorDemo.java
-│   ├── StackDemo.java
-│   └── VectorDemo.java
+│   ├── Generic/
+│   │   └── EqualsVsDoubleEquals.java
+│   ├── List/
+│   │   ├── ArrayListDemo.java
+│   │   ├── IteratorDemo.java
+│   │   ├── LinkedListDemo.java
+│   │   ├── ListIteratorDemo.java
+│   │   ├── StackDemo.java
+│   │   └── VectorDemo.java
+│   ├── Map/
+│   │   └── MapDemo.java
+│   ├── Queue/
+│   │   ├── ArrayDequeDemo.java
+│   │   ├── PriorityQueueDemo.java
+│   │   └── QueueInterfaceDemo.java
+│   └── Set/
+│       └── SetDemo.java
 ├── Hackerrank/
 │   └── Scanner/
 │       └── ScannerConcept.java
@@ -22,11 +33,13 @@
 │   └── ValidAnagram242.java
 ├── OOPS/
 ├── RoughNote/
+│   ├── ArrayDequeDemo.java
 │   ├── ClassA.java
 │   ├── Coffee.java
-│   ├── EqualsVsDoubleEquals.java
+│   ├── HashMapDemo.java
 │   ├── IteratorTopic.java
 │   ├── ListIteratorTopic.java
+│   ├── SetDemo.java
 │   └── StringCyclicRotation.java
 └── readme.md
 ```
