@@ -1,4 +1,4 @@
-package RoughNote;
+package Collections.List;
 
 import java.util.LinkedList; // Using LinkedList as it benefits from ListIterator features
 import java.util.ListIterator;

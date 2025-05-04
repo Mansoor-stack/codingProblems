@@ -1,4 +1,4 @@
-package RoughNote;
+package Collections.List;
 
 import java.util.Stack; // Import Stack class
 import java.util.EmptyStackException;

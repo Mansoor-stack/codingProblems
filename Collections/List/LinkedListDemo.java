@@ -1,4 +1,4 @@
-package RoughNote;
+package Collections.List;
 
 import java.util.LinkedList;
 import java.util.Arrays;
