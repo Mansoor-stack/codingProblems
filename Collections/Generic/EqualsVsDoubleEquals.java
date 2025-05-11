@@ -1,4 +1,4 @@
-package RoughNote;
+package Collections.Generic;
 
 public class EqualsVsDoubleEquals {
 
