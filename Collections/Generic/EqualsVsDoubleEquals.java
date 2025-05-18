@@ -1,6 +1,12 @@
 package Collections.Generic;
 
+/*
+ * The primary goal of this code is to illustrate the 
+ * fundamental difference between the == operator and the .equals() method in Java, 
+ * especially when dealing with primitive types versus object types (like String).
+ */
 public class EqualsVsDoubleEquals {
+
 
     public static void main(String[] args) {
 
