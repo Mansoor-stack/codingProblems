@@ -20,12 +20,15 @@
 │   │   └── QueueInterfaceDemo.java
 │   └── Set/
 │       └── SetDemo.java
+├── ConditionalStatements/
+│   └── ConditionalStatementsExplainer.java // Loop explainers removed from here
 ├── Hackerrank/
 │   └── Scanner/
 │       └── ScannerConcept.java
 ├── Leetcode/
 │   ├── ArrayElementCountInObject.java
 │   ├── ContainsDuplicate219.java
+│   ├── IsomorphicStrings205.java
 │   ├── IsSubsequence392.java
 │   ├── MajorityElement169.java
 │   ├── Problem3.java
@@ -33,6 +36,11 @@
 │   └── ValidAnagram242.java
 ├── OOPS/
 ├── RoughNote/
+│   ├── A.java
+│   ├── A1.java
+│   ├── A2.java
+│   ├── A3.java
+│   ├── A4.java
 │   ├── ArrayDequeDemo.java
 │   ├── ClassA.java
 │   ├── Coffee.java
@@ -41,6 +49,11 @@
 │   ├── ListIteratorTopic.java
 │   ├── SetDemo.java
 │   └── StringCyclicRotation.java
+├── Loops/
+│   ├── DoWhileLoopExplainer.java
+│   ├── ForEachLoopExplainer.java
+│   ├── ForLoopExplainer.java
+│   └── WhileLoopExplainer.java
 └── readme.md
 ```
 
