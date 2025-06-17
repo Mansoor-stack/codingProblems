@@ -28,28 +28,15 @@
 ├── Leetcode/
 │   ├── ArrayElementCountInObject.java
 │   ├── ContainsDuplicate219.java
-│   ├── IsomorphicStrings205.java
+│   ├── FirstNonRepeatingElementApproach1.java
+│   ├── FirstNonRepeatingElementApproach2.java
 │   ├── IsSubsequence392.java
 │   ├── MajorityElement169.java
 │   ├── Problem3.java
 │   ├── StringCyclicRotation.java
+│   ├── TopKFrequentElements.java
 │   ├── TwoSums.java
 │   └── ValidAnagram242.java
-├── OOPS/
-├── RoughNote/
-│   ├── A.java
-│   ├── A1.java
-│   ├── A2.java
-│   ├── A3.java
-│   ├── A4.java
-│   ├── ArrayDequeDemo.java
-│   ├── ClassA.java
-│   ├── Coffee.java
-│   ├── HashMapDemo.java
-│   ├── IteratorTopic.java
-│   ├── ListIteratorTopic.java
-│   ├── SetDemo.java
-│   └── StringCyclicRotation.java
 ├── Loops/
 │   ├── DoWhileLoopExplainer.java
 │   ├── ForEachLoopExplainer.java
